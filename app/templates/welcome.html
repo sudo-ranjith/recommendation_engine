@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<!--Start here-->
+
+		<h1>Welcome to Movie Recommendation System</h1>
+
+		<form class="form" action="/movie/recommended" method="get">
+			<input type="movie_name" name="movie_name" placeholder="Enter Movie name"><br>
+            Ex : Avatar
+<!-- 			<input type="password" placeholder="Password"> -->
+            <br><br>
+			<button type="submit" id="login-button">Get Recommended Movies</button>
+		</form>
+	</div>
+
+</div>
+
+
+{% endblock %}

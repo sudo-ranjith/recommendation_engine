@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+
+
+        <h2>Recommended movie's for you!</h2>
+        <hr><br>
+
+
+{% for movie in output %}
+        <ul><li style="text-align:left;"> <h3>{{movie}}</h3></li></ul>
+{% endfor %}
+        <br>
+        <a href="/movie/home">Back to Home</a> <br><br><br>
+        <br>
+{% endblock %}

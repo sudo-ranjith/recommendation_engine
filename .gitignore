@@ -1,0 +1,14 @@
+# to ignore while pusing code
+app/__pycache__/__init__.cpython-36.pyc
+app/__pycache__/admin.cpython-36.pyc
+app/__pycache__/models.cpython-36.pyc
+app/__pycache__/urls.cpython-36.pyc
+app/__pycache__/views.cpython-36.pyc
+.idea
+.idea/*
+app/migrations/__pycache__/__init__.cpython-36.pyc
+movie_recommendation/__pycache__/__init__.cpython-36.pyc
+movie_recommendation/__pycache__/settings.cpython-36.pyc
+movie_recommendation/__pycache__/urls.cpython-36.pyc
+movie_recommendation/__pycache__/wsgi.cpython-36.pyc
+
