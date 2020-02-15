@@ -6,9 +6,12 @@ app/__pycache__/urls.cpython-36.pyc
 app/__pycache__/views.cpython-36.pyc
 .idea
 .idea/*
+.idea/misc.xml
+app/__pycache__/views.cpython-36.pyc
 app/migrations/__pycache__/__init__.cpython-36.pyc
+movie_recommendation/__pycache__/settings.cpython-36.pyc
 movie_recommendation/__pycache__/__init__.cpython-36.pyc
 movie_recommendation/__pycache__/settings.cpython-36.pyc
 movie_recommendation/__pycache__/urls.cpython-36.pyc
 movie_recommendation/__pycache__/wsgi.cpython-36.pyc
-
+movie_recommendation/__pycache__/urls.cpython-36.pyc

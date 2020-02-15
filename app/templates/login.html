@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>welcome to movie recommendation system </h1>
+
+		<form class="form" action="/movies/home">
+			<input type="text" placeholder="Username"> <br>
+			<input type="password" placeholder="Password"> <br>
+			<button type="submit" id="login-button">Login</button>
+		</form>
+
+{% endblock %}

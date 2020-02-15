@@ -10,6 +10,10 @@ from datetime import datetime
 CSV_FILE = "movie_dataset.csv"
 
 
+def login(request):
+    return render(request, 'login.html')
+
+
 def home(request):
     now_time = dict()
     now_time['now_time'] = datetime.now()
