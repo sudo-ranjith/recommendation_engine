@@ -1,4 +1,4 @@
-Django==2.0
+Django==2.2.24
 Jinja2==2.10.3
 joblib==0.14.1
 MarkupSafe==1.1.1
