@@ -1,6 +1,6 @@
 Django==2.0
 Jinja2==2.10.3
-joblib==0.14.1
+joblib==1.2.0
 MarkupSafe==1.1.1
 numpy==1.18.0
 pandas==0.25.3
